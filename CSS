@@ -1,1 +1,13 @@
-
+body {
+  background: white;
+}
+h1 {
+  color:paleturquoise;
+  text-decoration: overline;
+  background-clip: border-box;
+  background-color: palegoldenrod;
+}
+p {
+  color: gray2;
+  background-color: azure;
+}
