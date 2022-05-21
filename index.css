@@ -5,7 +5,7 @@ body {
 
 img {
   width: 200px;
-  height:200px;
+  height: 200px;
   align-content: center;
 }
 
@@ -13,4 +13,9 @@ img {
   background-color: #FCF7FFF;
   font-size: 50px;
   font-family: cursive;
+}
+
+#gen9 img {
+  width: 600px;
+  height: 200px;
 }
